@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcat-users xmlns="http://tomcat.apache.org/xml"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://tomcat.apache.org/xml tomcat-users.xsd"
+              version="1.0">
+
+	<role rolename="client" />
+	<user username="food-allert" password="39e6e250854dade5c3b886cc151b6a6248f9d8df0db431f858ff774731815ffb$1$5cde81b4e0f32521f8c0fba8ee02cf4eee35a62b" roles="client" />
+
+</tomcat-users>
